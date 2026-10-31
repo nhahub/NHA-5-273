@@ -37,7 +37,7 @@ Using Python, SQL, and Power BI, we prepare, explore, and analyze healthcare dat
 The following documents describe the project plan, evaluation approach, and requirements:
 
 1. [Project Planning & Management]([./01_Project_Planning_and_Management_Updated.docx](https://github.com/nhahub/NHA-5-273/blob/main/Documentation/01_Project_Planning_and_Management.docx))
-2. [Literature Review & Evaluation]([Literature Review](./Documentation/02_Literature_Review_and_Governance.docx))
+2. ([Literature Review](./Documentation/02_Literature_Review_and_Governance.docx))
 3. [Requirements Gathering]([./03_Requirements_Gathering_Updated.docx](https://github.com/nhahub/NHA-5-273/blob/main/Documentation/03_Requirements_Gathering.docx))
 
 ## Team Members
