@@ -36,23 +36,19 @@ Using Python, SQL, and Power BI, we prepare, explore, and analyze healthcare dat
 
 The following documents describe the project plan, evaluation approach, and requirements:
 
-1. [Project Planning & Management](./01_Project_Planning_and_Management_Updated.docx)
-2. [Literature Review & Evaluation](./02_Literature_Review_and_Evaluation_Updated.docx)
-3. [Requirements Gathering](./03_Requirements_Gathering_Updated.docx)
+1. [Project Planning & Management]([./01_Project_Planning_and_Management_Updated.docx](https://github.com/nhahub/NHA-5-273/blob/main/Documentation/01_Project_Planning_and_Management.docx))
+2. [Literature Review & Evaluation]([./02_Literature_Review_and_Evaluation_Updated.docx](https://github.com/nhahub/NHA-5-273/blob/main/Documentation/02_Literature_Review_and_Evaluation.docx))
+3. [Requirements Gathering]([./03_Requirements_Gathering_Updated.docx](https://github.com/nhahub/NHA-5-273/blob/main/Documentation/03_Requirements_Gathering.docx))
 
 ## Team Members
 
 | # | Name | Role |
 |---|---|---|
 | 1 | Eslam Mamdouh | Team Leader |
-| 2 | Assem Ayman | Team Member |
-| 3 | Zainab Shady | Team Member |
-| 4 | Mariam Khaled | Team Member |
-| 5 | Abdullah Masoud | Team Member |
-
-## Dataset Note
-
-This project uses a **synthetic educational healthcare dataset**, not real hospital or patient records. The analysis is intended for educational, analytical, and operational exploration only. It is not designed for clinical diagnosis or treatment recommendations.
+| 2 | Assem Ayman | Member |
+| 3 | Zainab Shady | Member |
+| 4 | Mariam Khaled | Member |
+| 5 | Abdullah Masoud | Member |
 
 ## Repository
 
