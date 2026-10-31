@@ -50,6 +50,3 @@ The following documents describe the project plan, evaluation approach, and requ
 | 4 | Mariam Khaled | Member |
 | 5 | Abdullah Masoud | Member |
 
-## Repository
-
-[GitHub Repository](https://github.com/nhahub/NHA-5-273)
